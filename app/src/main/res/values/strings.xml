@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello_world</string>
+    <string name="kitty_name">Имя Котика</string>
+    <string name="desc">Котик</string>
+</resources>
